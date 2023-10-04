@@ -23,10 +23,15 @@ The following **optional** features are implemented:
 - [ ] User should be able to restart the game after they've finished answering all questions
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4).
+    
+<div>
+    <a href="https://www.loom.com/share/5c1a0b22d0734783b027a73ed595f137">
+    </a>
+    <a href="https://www.loom.com/share/5c1a0b22d0734783b027a73ed595f137">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5c1a0b22d0734783b027a73ed595f137-with-play.gif">
+    </a>
+  </div>
+    
 
 ## Notes
 
